@@ -14,12 +14,24 @@
     
     margin:auto;
 }
-
+.han{
+    height: 350px;
+    width:350px;
+    
+    box-sizing: border-box;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 95px;
+}
 .im{
     height: 350px;
     width:500px;
 }
-
+.im2{
+    height: 350px;
+    width:350px;
+    
+}
 .handi{
     height: auto;
     width: 400px;
@@ -32,7 +44,25 @@
     color:black;
     text-decoration: none;
     font-size: 20px;
+    display: inline-block;
+    margin-left:70px; 
 }
+.ulist1,a{
+    color:black;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 155px; 
+}
+.ulist2,a{
+    color:black;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 155px; 
+}
+
+
 .ulist,a:hover{
     color: cadetblue;
 }
@@ -47,7 +77,4 @@ h1{
 }
 body{
     background-color: white;
-}
-ul{
-    margin-top:70px;
 }
